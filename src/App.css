@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  color: #09d3ac;
+  height: 100vh;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5rem;
+}
+
+.align-row{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.align-row p{
+  font-size: 1.5rem;
+  padding: 0 1rem ;
+}
+
+button{
+  color: #09d3ac;
+  background-color: #1d1d1f;
+  border:1px solid #09d3ac;
+  cursor: pointer;
+  padding: 0.25rem;
+  font-size: 1.15rem;
+}
+
+.Timer{
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size:1.5rem;
+}
+
+
