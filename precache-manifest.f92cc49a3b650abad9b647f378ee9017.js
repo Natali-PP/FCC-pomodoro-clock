@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b58850451b01484f6b4e5166e95b47d",
+    "revision": "6c80be6ed9ec27fa33af70cd5af8ff20",
     "url": "natali-pp.github.io/FCC-pomodoro-clock/index.html"
   },
   {
